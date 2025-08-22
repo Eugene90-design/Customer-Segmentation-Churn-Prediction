@@ -53,15 +53,13 @@ Customer-Segmentation-Churn-Prediction/
 ---
 
 ## 📊 Key Visuals
-
 ### 🔹 Customer Segmentation (K-Means Clustering)
-![Segmentation Clusters](images/segmentation/clusters_scatter.png)
+![Customer Segments](images_customer-segmentation/customer_segments.png)
+![SHAP Beeswarm](images_customer-segmentation/shap_beeswarm.png)
 
-### 🔹 Churn Prediction – Random Forest Confusion Matrix
-![Random Forest Confusion Matrix](images/churn/rf_confusion_matrix.png)
-
-### 🔹 Churn Prediction – SHAP Feature Importance
-![SHAP Summary](images/churn/shap_summary.png)
+### 🔹 Customer Churn Prediction
+![Random Forest Confusion Matrix](images_churn_prediction/Random_Forest_confusion_matrix.png)
+![SHAP Summary](images_churn_prediction/shap_summary.png)
 
 👉 More visuals are available in the [`/images`](./images) folder.
 
